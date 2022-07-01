@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+  class Main {
+  public static void main(String[] args) {
+  int l,m;
+  System.out.println("insira um numero  : ");
+Scanner in = new Scanner(System.in);
+ n = in.nextInt();
+
+for(l=m;l<=m,l++) {
+  }
+}
